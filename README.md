@@ -1,6 +1,6 @@
-#React Native QUIZ APP
+# React Native QUIZ APP
 
-##USAGE
+## USAGE
 
 1.create "local.properties" file in "/android" directory
 
