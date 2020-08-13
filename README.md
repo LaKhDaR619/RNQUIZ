@@ -6,4 +6,4 @@
 
 2.`npm run android`
 
-<img src='./assets/icon.png'>
+<img src='./quiz.png'>
